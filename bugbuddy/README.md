@@ -1,4 +1,4 @@
-# CodeWithSheriga-AI Extension
+# Bug Buddy AI
 
 This extension integrates with my AI-powered web app to provide code completions and suggestions in Visual Studio Code.
 
